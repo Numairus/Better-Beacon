@@ -1,0 +1,1 @@
+table.insert(data.raw.technology["effect-transmission"].effects, {type = "unlock-recipe", recipe = "beacon-mk2"})
